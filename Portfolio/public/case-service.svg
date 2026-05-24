@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title id="title">Service site preview</title>
+  <desc id="desc">A calm service website preview with appointment blocks.</desc>
+  <rect width="640" height="480" fill="#eaf4ff"/>
+  <rect x="70" y="76" width="500" height="328" rx="20" fill="#ffffff"/>
+  <rect x="104" y="112" width="170" height="18" rx="9" fill="#0d6efd"/>
+  <rect x="104" y="154" width="250" height="88" rx="14" fill="#d9ebff"/>
+  <rect x="386" y="154" width="114" height="88" rx="14" fill="#cdebd9"/>
+  <rect x="104" y="274" width="396" height="18" rx="9" fill="#93a4b8"/>
+  <rect x="104" y="314" width="280" height="18" rx="9" fill="#c2cfdd"/>
+  <circle cx="460" cy="110" r="38" fill="#198754"/>
+</svg>
