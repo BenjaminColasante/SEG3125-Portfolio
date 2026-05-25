@@ -143,7 +143,7 @@ function App() {
                   <div className="step">
                     <span>2</span>
                     <h3>Organize</h3>
-                    <p>Make the most important content stand out using size, color, and spacing.</p>
+                    <p>Make the most important content stand out using size, color, hierarchy, and spacing.</p>
                   </div>
 
                   <div className="step">
