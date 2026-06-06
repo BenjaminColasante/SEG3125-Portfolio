@@ -170,7 +170,7 @@ function App() {
                   <p className="project-label">Design 1</p>
                   <h3>Service Website</h3>
                   <p>A service site with clear and concise information.</p>
-                  <a className="btn btn-primary" href="/service.html">
+                  <a className="btn btn-primary" href="/https://seg-3125-pet-grooming-service-site.vercel.app/">
                     Coming soon
                   </a>
                 </div>
