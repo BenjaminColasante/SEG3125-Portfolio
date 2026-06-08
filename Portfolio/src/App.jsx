@@ -165,11 +165,11 @@ function App() {
             </div>
             <div className="projects">
               <div className="project">
-                <img src="/case-service.svg" alt="Service Website" />
+                <img src="/case-service.jpg" alt="Service Website" />
                 <div className="project-info">
                   <p className="project-label">Design 1</p>
-                  <h3>Service Website</h3>
-                  <p>A service site with clear and concise information.</p>
+                  <h3>Bark & Brush</h3>
+                  <p>A modern service website for a pet care business.</p>
                   <a
                     className="btn btn-primary"
                     href="https://seg-3125-pet-grooming-service-site.vercel.app/"
