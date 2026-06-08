@@ -165,7 +165,7 @@ function App() {
             </div>
             <div className="projects">
               <div className="project">
-                <img src="/case-service.jpg" alt="Service Website" />
+                <img src="/case-service.svg" alt="Service Website" />
                 <div className="project-info">
                   <p className="project-label">Design 1</p>
                   <h3>Bark & Brush</h3>
