@@ -185,11 +185,16 @@ function App() {
                 <img src="/case-memory.svg" alt="Memory Game" />
                 <div className="project-info">
                   <p className="project-label">Design 2</p>
-                  <h3>Memory Game</h3>
+                  <h3>Memory Trail</h3>
                   <p>A memory game with a fun theme and simple mechanics.</p>
-                  <a className="btn btn-primary" href="/memory.html">
-                    Coming soon
-                  </a>
+                  <a
+                    className="btn btn-primary"
+                    href="https://seg-3125-memory-game.vercel.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    View website
+                </a>
                 </div>
               </div>
 
