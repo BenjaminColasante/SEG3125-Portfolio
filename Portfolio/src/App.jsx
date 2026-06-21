@@ -185,7 +185,7 @@ function App() {
                 <img src="/case-memory.svg" alt="Memory Game" />
                 <div className="project-info">
                   <p className="project-label">Design 2</p>
-                  <h3>Memory Trail</h3>
+                  <h3>Trail Tracker</h3>
                   <p>A memory game with a fun theme and simple mechanics.</p>
                   <a
                     className="btn btn-primary"
