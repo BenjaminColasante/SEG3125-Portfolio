@@ -202,11 +202,16 @@ function App() {
                 <img src="/case-commerce.svg" alt="E-Commerce Site" />
                 <div className="project-info">
                   <p className="project-label">Design 3</p>
-                  <h3>E-Commerce Site</h3>
-                  <p>A useful and practical e-commerce site for browsing products.</p>
-                  <a className="btn btn-primary" href="/commerce.html">
-                    Coming soon
-                  </a>
+                  <h3>Desk Nest</h3>
+                  <p>A useful e-commerce site for browsing desk products and accessories.</p>
+                  <a
+                    className="btn btn-primary"
+                    href="https://seg-3125-e-commerce-site.vercel.app/#/home"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    View website
+                </a>
                 </div>
               </div>
 
