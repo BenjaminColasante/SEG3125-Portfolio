@@ -203,7 +203,7 @@ function App() {
                 <div className="project-info">
                   <p className="project-label">Design 3</p>
                   <h3>Desk Nest</h3>
-                  <p>A useful e-commerce site for browsing desk products and accessories.</p>
+                  <p>A useful e-commerce site for browsing desk accessories.</p>
                   <a
                     className="btn btn-primary"
                     href="https://seg-3125-e-commerce-site.vercel.app/#/home"
