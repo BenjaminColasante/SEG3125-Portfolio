@@ -202,7 +202,7 @@ function App() {
                 <img src="/case-commerce.svg" alt="E-Commerce Site" />
                 <div className="project-info">
                   <p className="project-label">Design 3</p>
-                  <h3>Desk Nest</h3>
+                  <h3>DeskNest</h3>
                   <p>A useful e-commerce site for browsing desk accessories.</p>
                   <a
                     className="btn btn-primary"
