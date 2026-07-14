@@ -219,11 +219,16 @@ function App() {
                 <img src="/case-analytics.svg" alt="Analytics Site" />
                 <div className="project-info">
                   <p className="project-label">Design 4</p>
-                  <h3>Analytics Site</h3>
-                  <p>A place to visualize and explore data, summaries, and trends.</p>
-                  <a className="btn btn-primary" href="/analytics.html">
-                    Coming soon
-                  </a>
+                  <h3>Produce Pulse</h3>
+                  <p>A place to visualize grocery data and trends.</p>
+                  <a
+                    className="btn btn-primary"
+                    href="https://seg-3125-analytics-site.vercel.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    View website
+                </a>
                 </div>
               </div>
             </div>
