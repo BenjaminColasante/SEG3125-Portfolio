@@ -43,8 +43,8 @@ function App() {
             <h1>Benjamin Colasante</h1>
 
             <p className="hero-text">
-              A simple portfolio for my UI design course, built to collect the four
-              design projects I will complete this semester.
+              A collection of four interface design projects created for my UI
+              design course, from early concepts to finished interactive experiences.
             </p>
 
             <div className="hero-buttons">
@@ -161,74 +161,86 @@ function App() {
           <div className="container">
             <p className="small-title">Case Studies</p>
             <div className="section-title">
-              <h2>Future designs</h2>
+              <h2>My designs</h2>
             </div>
             <div className="projects">
               <div className="project">
-                <img src="/case-service.svg" alt="Service Website" />
+                <img
+                  src="/case-studies/service.png"
+                  alt="Bark & Brush grooming appointment form"
+                />
                 <div className="project-info">
                   <p className="project-label">Design 1</p>
                   <h3>Bark & Brush</h3>
-                  <p>A modern service website for a pet care business.</p>
+                  <p>A friendly dog-grooming service site with clear packages, care guidance, and online booking.</p>
                   <a
                     className="btn btn-primary"
                     href="https://seg-3125-pet-grooming-service-site.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    View website
+                    Visit Bark & Brush
                 </a>
                 </div>
               </div>
 
               <div className="project">
-                <img src="/case-memory.svg" alt="Memory Game" />
+                <img
+                  src="/case-studies/memory.png"
+                  alt="Trail Tracker sequence memory game with an active tile grid"
+                />
                 <div className="project-info">
                   <p className="project-label">Design 2</p>
                   <h3>Trail Tracker</h3>
-                  <p>A memory game with a fun theme and simple mechanics.</p>
+                  <p>A customizable sequence-memory game with three difficulties, visual themes, and play modes.</p>
                   <a
                     className="btn btn-primary"
                     href="https://seg-3125-memory-game.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    View website
-                </a>
+                    Play Trail Tracker
+                  </a>
                 </div>
               </div>
 
               <div className="project">
-                <img src="/case-commerce.svg" alt="E-Commerce Site" />
+                <img
+                  src="/case-studies/commerce.png"
+                  alt="DeskNest e-commerce website homepage"
+                />
                 <div className="project-info">
                   <p className="project-label">Design 3</p>
                   <h3>DeskNest</h3>
-                  <p>A useful e-commerce site for browsing desk accessories.</p>
+                  <p>A calm shopping experience for ergonomic desk essentials, with product discovery and checkout.</p>
                   <a
                     className="btn btn-primary"
                     href="https://seg-3125-e-commerce-site.vercel.app/#/home"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    View website
-                </a>
+                    Shop DeskNest
+                  </a>
                 </div>
               </div>
 
               <div className="project">
-                <img src="/case-analytics.svg" alt="Analytics Site" />
+                <img
+                  src="/case-studies/analytics.png"
+                  alt="Produce Pulse analytics dashboard overview"
+                />
                 <div className="project-info">
                   <p className="project-label">Design 4</p>
                   <h3>Produce Pulse</h3>
-                  <p>A place to visualize grocery data and trends.</p>
+                  <p>A bilingual interactive dashboard for comparing Canadian produce prices and trends throughout 2025.</p>
                   <a
                     className="btn btn-primary"
                     href="https://seg-3125-analytics-site.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    View website
-                </a>
+                    Explore dashboard
+                  </a>
                 </div>
               </div>
             </div>
