@@ -167,7 +167,7 @@ function App() {
               <div className="project">
                 <img
                   src="/case-studies/service.png"
-                  alt="Bark & Brush grooming appointment form"
+                  alt="Bark & Brush dog-grooming website hero"
                 />
                 <div className="project-info">
                   <p className="project-label">Design 1</p>
